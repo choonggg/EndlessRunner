@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "serve": "parcel -p 3000 index.html"
+  },
+  "name": "EndRunner",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.16.2"
+  }
+}
